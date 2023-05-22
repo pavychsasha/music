@@ -272,7 +272,7 @@ print {
     nav li {
         border-top: none;
         display: inline-block;
-        border-right: 1px solid #e5e9fc;
+        border-right: 1px solid #e5e9fc; 
         font-size: 1.5em;
     }
 
