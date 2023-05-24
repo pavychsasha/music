@@ -24,8 +24,6 @@ body, header, nav, main, footer, img, h1, ul, section, aside, figure, figcaption
     
     /* Style rules for mobile viewport */
     
-    text-align: center;
-    
     
     /* Hide tab-desk class */
     .tab-desk, #menu-links {
