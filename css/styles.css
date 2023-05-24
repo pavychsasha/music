@@ -28,7 +28,7 @@ body, header, nav, main, footer, img, h1, ul, section, aside, figure, figcaption
     
     
     /* Hide tab-desk class */
-    .tab-desk {
+    .tab-desk, #menu-links {
     display: none;
     }
     
