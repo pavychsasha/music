@@ -1,7 +1,7 @@
 /*
 Author: Oleksandr Pavych
 Date: 05/23/2023
-File Name: scripts.css
+File Name: scripts.js
 */
 
 // Hamburger menu function
